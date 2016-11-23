@@ -1,0 +1,3 @@
+rootProject.name = 'Chaobei8080'
+
+include ':app'
